@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+App OK
 
-Things you may want to cover:
+Le point 3 fonctionne mais seul le premier email affiche le contenu d'ailleurs
+Pb : pas d'ID d'email apparemment....
 
-* Ruby version
+Lien heroku : 
+https://emailajax.herokuapp.com
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
